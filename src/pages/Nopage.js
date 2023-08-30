@@ -1,6 +1,6 @@
 import React from 'react';
 
 const Nopage = () => {
-  <div>error </div>;
+  return <div>error </div>;
 };
 export default Nopage;

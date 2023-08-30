@@ -48,7 +48,7 @@ export default function App() {
 //       <BrowserRouter>
 //         <Routes>
 //           <Route path="/" element={<Home />}>
-//             <Route path="contacts" element={<Contact />} />
+//             <Route path="contact" element={<Contact />} />
 //             <Route path="layout" element={<Layout />} />
 //             <Route path="blogs" element={<Blogs />} />
 //             <Route path="*" element={<Nopage />} />
